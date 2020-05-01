@@ -22,3 +22,10 @@ This search strategy suggest us to search layer by layer at the graph/tree:
 
 In our Maze example, we only changed the data structure to represent the "frontier".
 In the BFS we use a Queue to store the states and we remove the visited Nodes from the First Inseretd item to the Last Inserted (FIFO).
+
+### A * - A star
+
+[https://www.youtube.com/watch?v=ySN5Wnu88nE](https://www.youtube.com/watch?v=ySN5Wnu88nE)
+[https://www.geeksforgeeks.org/a-search-algorithm/](https://www.geeksforgeeks.org/a-search-algorithm/)
+
+Uses a heuristic to reach from one point/node (start) to another (goal).
